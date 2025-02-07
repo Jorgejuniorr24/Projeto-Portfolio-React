@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // src/App.jsx
 import React from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from './components/ui/card';
@@ -61,3 +62,16 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+=======
+import RouterManager from "./router"
+
+function App() {
+ 
+
+  return RouterManager (
+   
+  )
+}
+
+export default App
+>>>>>>> e3f6800 (Ajustando posição da imagem e organização dos botões)
